@@ -1,0 +1,9 @@
+{
+	"name": "sonw00",
+	"location": "koreacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "363ea7d1-ede6-4886-a5e2-455bddc93bb0",
+		"tenantId": "bd54416a-67b8-4ae1-90cd-114dda6d2e1b"
+	}
+}
